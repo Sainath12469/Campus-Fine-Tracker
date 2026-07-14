@@ -1,0 +1,15 @@
+node_modules/
+.env
+dist/
+build/
+coverage/
+
+Frontend/node_modules/
+Backend/node_modules/
+
+.env
+Backend/.env
+Frontend/.env
+
+dist/
+build/

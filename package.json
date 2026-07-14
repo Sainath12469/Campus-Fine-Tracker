@@ -1,0 +1,16 @@
+{
+  "name": "campus_fine_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mogoose": "^0.0.1-security",
+    "mongoose": "^9.7.4"
+  }
+}
